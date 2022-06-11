@@ -1,2 +1,16 @@
-<h1> DSS | Data Storage Sell </h1>
-<p>MVC .NET Framework project created in line with Advanced Web and Service Oriented Architecture courses.</p>
+![005](https://github.com/KaganCanSit/DSS_DataStorageSell-MVC/blob/main/Sunum%20%C4%B0%C3%A7erikleri/DSS%20Blockchain%20Uygulamas%C4%B1%20-%20PDF-g%C3%B6r%C3%BCnt%C3%BCler/0005.jpg)
+![006](https://github.com/KaganCanSit/DSS_DataStorageSell-MVC/blob/main/Sunum%20%C4%B0%C3%A7erikleri/DSS%20Blockchain%20Uygulamas%C4%B1%20-%20PDF-g%C3%B6r%C3%BCnt%C3%BCler/0006.jpg)
+![007](https://github.com/KaganCanSit/DSS_DataStorageSell-MVC/blob/main/Sunum%20%C4%B0%C3%A7erikleri/DSS%20Blockchain%20Uygulamas%C4%B1%20-%20PDF-g%C3%B6r%C3%BCnt%C3%BCler/0007.jpg)
+![008](https://github.com/KaganCanSit/DSS_DataStorageSell-MVC/blob/main/Sunum%20%C4%B0%C3%A7erikleri/DSS%20Blockchain%20Uygulamas%C4%B1%20-%20PDF-g%C3%B6r%C3%BCnt%C3%BCler/0008.jpg)
+![009](https://github.com/KaganCanSit/DSS_DataStorageSell-MVC/blob/main/Sunum%20%C4%B0%C3%A7erikleri/DSS%20Blockchain%20Uygulamas%C4%B1%20-%20PDF-g%C3%B6r%C3%BCnt%C3%BCler/0009.jpg)
+![010](https://github.com/KaganCanSit/DSS_DataStorageSell-MVC/blob/main/Sunum%20%C4%B0%C3%A7erikleri/DSS%20Blockchain%20Uygulamas%C4%B1%20-%20PDF-g%C3%B6r%C3%BCnt%C3%BCler/0010.jpg)
+![011](https://github.com/KaganCanSit/DSS_DataStorageSell-MVC/blob/main/Sunum%20%C4%B0%C3%A7erikleri/DSS%20Blockchain%20Uygulamas%C4%B1%20-%20PDF-g%C3%B6r%C3%BCnt%C3%BCler/0011.jpg)
+![012](https://github.com/KaganCanSit/DSS_DataStorageSell-MVC/blob/main/Sunum%20%C4%B0%C3%A7erikleri/DSS%20Blockchain%20Uygulamas%C4%B1%20-%20PDF-g%C3%B6r%C3%BCnt%C3%BCler/0012.jpg)
+![013](https://github.com/KaganCanSit/DSS_DataStorageSell-MVC/blob/main/Sunum%20%C4%B0%C3%A7erikleri/DSS%20Blockchain%20Uygulamas%C4%B1%20-%20PDF-g%C3%B6r%C3%BCnt%C3%BCler/0013.jpg)
+![014](https://github.com/KaganCanSit/DSS_DataStorageSell-MVC/blob/main/Sunum%20%C4%B0%C3%A7erikleri/DSS%20Blockchain%20Uygulamas%C4%B1%20-%20PDF-g%C3%B6r%C3%BCnt%C3%BCler/0014.jpg)
+![015](https://github.com/KaganCanSit/DSS_DataStorageSell-MVC/blob/main/Sunum%20%C4%B0%C3%A7erikleri/DSS%20Blockchain%20Uygulamas%C4%B1%20-%20PDF-g%C3%B6r%C3%BCnt%C3%BCler/0015.jpg)
+![016](https://github.com/KaganCanSit/DSS_DataStorageSell-MVC/blob/main/Sunum%20%C4%B0%C3%A7erikleri/DSS%20Blockchain%20Uygulamas%C4%B1%20-%20PDF-g%C3%B6r%C3%BCnt%C3%BCler/0016.jpg)
+![017](https://github.com/KaganCanSit/DSS_DataStorageSell-MVC/blob/main/Sunum%20%C4%B0%C3%A7erikleri/DSS%20Blockchain%20Uygulamas%C4%B1%20-%20PDF-g%C3%B6r%C3%BCnt%C3%BCler/0017.jpg)
+![018](https://github.com/KaganCanSit/DSS_DataStorageSell-MVC/blob/main/Sunum%20%C4%B0%C3%A7erikleri/DSS%20Blockchain%20Uygulamas%C4%B1%20-%20PDF-g%C3%B6r%C3%BCnt%C3%BCler/0018.jpg)
+![019](https://github.com/KaganCanSit/DSS_DataStorageSell-MVC/blob/main/Sunum%20%C4%B0%C3%A7erikleri/DSS%20Blockchain%20Uygulamas%C4%B1%20-%20PDF-g%C3%B6r%C3%BCnt%C3%BCler/0019.jpg)
+![020](https://github.com/KaganCanSit/DSS_DataStorageSell-MVC/blob/main/Sunum%20%C4%B0%C3%A7erikleri/DSS%20Blockchain%20Uygulamas%C4%B1%20-%20PDF-g%C3%B6r%C3%BCnt%C3%BCler/0020.jpg)
